@@ -1,0 +1,6 @@
+{
+  "name": "Streamora - Premium IPTV & Live TV Streaming Service",
+  "description": "Streamora is a modern high-performance IPTV streaming platform offering 4K live TV, sports, movies, and multi-device support with 24/7 WhatsApp support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
